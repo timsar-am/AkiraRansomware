@@ -143,4 +143,10 @@ bstrings -f memory.dmp --ls URL -o "C:\Users\Administrator\Desktop\Ransom.txt
 
 ![image](https://github.com/user-attachments/assets/21b0675b-7b58-49be-b16e-efbc11d515d3)
 
+After over an hour its complete.
 
+![image](https://github.com/user-attachments/assets/243ff2cb-38b2-42ce-94d2-52e8d7728b16)
+
+Nothing showed up in the txt file. I looked at the writeup provided and it seems the answer isn’t in the strings. As this is real ransom ware we all consulted OSINT. Answer is: hxxps[://]akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id[.]onion
+
+This was a great lab. I found it very challenging and it filled gaps in my knowledge. Thank you CyberDefenders. 
